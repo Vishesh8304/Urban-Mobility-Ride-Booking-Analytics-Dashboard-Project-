@@ -3,7 +3,7 @@
 ## 📂 Dataset
 The dataset used in this project is uploaded in this repository.  
 
-📌 [**Download Dataset (CSV)**](blob/main/Urban%20Ride%20Booking%20(NCR)%20Dataset%20.csv)
+📌 [**Download Dataset (CSV)**] (/Urban%20Ride%20Booking%20(NCR)%20Dataset%20.csv)
 
 ---
 
